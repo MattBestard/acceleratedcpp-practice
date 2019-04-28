@@ -1,0 +1,1 @@
+This program in not valid because it does not have curly braces denoting the block for the main function.

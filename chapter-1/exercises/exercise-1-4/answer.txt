@@ -1,0 +1,1 @@
+This section of code works too because the two groups of statements are separated into different blocks with different scope where the variable s is always referring to the correct variable because of the different scopes.

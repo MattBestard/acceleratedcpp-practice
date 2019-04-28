@@ -1,0 +1,1 @@
+This code does not work because the second std::cout is trying to refer to a variable that is outside of its scope.

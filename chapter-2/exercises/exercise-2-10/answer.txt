@@ -1,0 +1,1 @@
+The first use of the using std::cout establishes within the scope of the while loop that every cout is within the namespace std. The second cout requires the std:: because it is outside of the scope of the using std::cout statement.

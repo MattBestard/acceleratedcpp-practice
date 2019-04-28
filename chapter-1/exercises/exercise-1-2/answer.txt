@@ -1,0 +1,1 @@
+In this particular case the following code is not valid because you try to concatenate C strings not C++ strings which are considered differently.

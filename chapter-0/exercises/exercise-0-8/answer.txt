@@ -1,0 +1,1 @@
+This program is valid because it is possible to "nest" // type comments on a single line. When /* */ are not counted as a separate comment when they are written inside of a // comment.

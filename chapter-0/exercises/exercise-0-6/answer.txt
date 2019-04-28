@@ -1,0 +1,1 @@
+This program is valid because it creates a block for the main function. It doesn't matter how many different nested block scopes are created.

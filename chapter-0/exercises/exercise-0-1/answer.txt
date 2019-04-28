@@ -1,0 +1,1 @@
+In C++ the expression 3 + 4 yields the result 7.

@@ -1,0 +1,1 @@
+This program is not valid because it is trying to nest comments inside one another which confuses the compiler. In this case the compiler was confused and thought that the text "as" is an undefined name or keyword.
