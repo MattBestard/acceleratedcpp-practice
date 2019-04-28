@@ -6,9 +6,13 @@
 using std::cin;
 using std::cout;
 using std::endl;
+using std::setprecision;
+using std::string;
+using std::streamsize;
 
 int main() {
   // ask for and read the student's name
+  cout << "please enter your first name: ";
   string name;
   cin >> name;
   cout << "Hello, " << name << "!" << endl;
